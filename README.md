@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Hello, sir!
+=======
+Hello, madame!
+>>>>>>> d3e60137679ea540085caa609bd6954b2464fa1c
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pretium lacinia arcu, non vehicula elit pharetra et. Aenean nec lectus vitae nisl elementum congue quis eget nunc. Vestibulum suscipit, diam sed consectetur pharetra, est velit tincidunt dolor, a mollis est felis ac elit. Duis tempor tempor arcu ac posuere. Fusce faucibus nisl condimentum lacinia eleifend. Cras rutrum posuere est, id ornare leo venenatis et. Curabitur placerat ut sapien a consectetur. Integer hendrerit porttitor libero, suscipit molestie dolor interdum non. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean pulvinar blandit neque et semper. Morbi tempus eget magna eget scelerisque. Proin ut molestie tortor. Donec consectetur sem augue, quis aliquam ipsum placerat ut.
 
